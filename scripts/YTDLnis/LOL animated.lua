@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/M1ZZ001/R4D-Revamp/main/Official%20R4D%20Revamp", true))()

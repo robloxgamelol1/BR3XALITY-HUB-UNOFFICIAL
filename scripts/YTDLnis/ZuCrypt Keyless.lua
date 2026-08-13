@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/The-Apocalypse-ZuCrypt-Keyless-94418"))()

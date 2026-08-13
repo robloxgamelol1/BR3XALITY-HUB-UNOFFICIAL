@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-CENIROSO-REMOTE-SPY-243195"))()

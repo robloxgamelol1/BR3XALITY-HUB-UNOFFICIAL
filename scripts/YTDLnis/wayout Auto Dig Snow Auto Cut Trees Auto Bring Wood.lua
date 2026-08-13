@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Survive-7-Days-In-Arctic-Alpha-wayout-Auto-Dig-Snow-Auto-Cut-Trees-Auto-Bring-Wood-241885"))()

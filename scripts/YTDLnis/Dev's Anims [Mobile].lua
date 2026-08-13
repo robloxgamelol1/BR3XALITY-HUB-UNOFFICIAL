@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Naoyazzzzzzzzz-Ghxst-Anims-Mobile-209568"))()

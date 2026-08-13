@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/a-dusty-trip-NEW-SEASON-Tiger-X-73009"))()

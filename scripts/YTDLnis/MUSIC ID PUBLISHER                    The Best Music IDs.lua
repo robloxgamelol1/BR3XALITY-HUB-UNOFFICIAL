@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-MUSIC-ID-PUBLISHER-The-Best-Music-IDs-239338"))()
